@@ -25,7 +25,7 @@ docker-compose up -d
 ````
 cd /opt/nginx-rtmp-ub22-arm
 
-docker-compose exec nginx-rtmp-ub22-arm_rtmp /bin/bash
+docker-compose exec rtmp /bin/bash
 
 cd /tmp
 
